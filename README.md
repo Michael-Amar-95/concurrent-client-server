@@ -109,5 +109,3 @@ When a request arrives, the server creates a child process using `fork()`. The c
 The parent server process continues listening for additional requests.
 
 ---
-
-**Academic Project** | Operating Systems
